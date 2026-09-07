@@ -1,0 +1,4 @@
+# Used only by scripts/download_data.py during reproduction.
+gdown==5.2.0
+
+# tokenizer.py itself uses only the Python standard library.
